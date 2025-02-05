@@ -42,7 +42,6 @@ In Kestra, the `file` variable is typically structured as:
 ```plaintext
 {taxi}-tripdata_{year}-{month}.csv
 
-
 ## 🔎 Questions 3-5  
 
 To determine the number of rows for these questions, we need to navigate to our **BigQuery** section and check the **Details** tab.   
@@ -54,7 +53,6 @@ How many rows are there for the Yellow Taxi data for all CSV files in the year 2
 24,648,499
 18,324,219
 29,430,127
-
 
 Question 4.
 How many rows are there for the Green Taxi data for all CSV files in the year 2020?
@@ -71,7 +69,6 @@ How many rows are there for the Yellow Taxi data for the March 2021 CSV file?
 706,911
 1,925,152
 2,561,031
-
 
 Question 6.
 How would you configure the timezone to New York in a Schedule trigger?
